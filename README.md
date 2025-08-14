@@ -26,7 +26,7 @@ Responsive, Modern Design — Works flawlessly on desktop, tablet, and mobile.
 
 Whether you’re a fresh graduate building your first CV or a seasoned professional refining your portfolio, JobMate AI adapts to your needs — turning the stressful process of job hunting into an engaging, data-driven experience.
 
-🧑 About Me (Example Intro)
+🧑 About Me
 
 "Hi, I’m Ahmed Mohamed, a passionate full-stack developer and creative problem-solver dedicated to building tools that make a real difference in people’s lives. With a strong background in web technologies, UX/UI design, and AI integration, I focus on creating applications that are both powerful and intuitive. JobMate AI is my vision of what a modern career platform should be — smart, personalized, and built to empower users to present their best selves to the world."
 
